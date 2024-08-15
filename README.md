@@ -2,10 +2,9 @@ Here is a simple code example in C++ to create
 calculator that calculates multiples of entered numbers:
 
 --------------------------------------------------------------------------
-#include <iostream>
-using namespace std;
-
-int main() {
+    #include <iostream>
+    using namespace std;
+    int main() {
     int angka, kelipatanMaks;
 
     cout << "Masukkan angka: ";
@@ -21,8 +20,7 @@ int main() {
     }
 
     return 0;
-}
-
+    }
 -------------------------------------------------------------------------------
 
 Explanation:
