@@ -35,9 +35,13 @@ Suppose the user enters the number 3
 and a maximum multiple of 5, the program will produce:
 
 3 x 1 = 3
+
 3 x 2 = 6
+
 3 x 3 = 9
+
 3 x 4 = 12
+
 3 x 5 = 15
 
 
